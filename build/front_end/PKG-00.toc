@@ -1,0 +1,47 @@
+('E:\\Python Work\\BookStore Database Connectivity '
+ 'App\\build\\front_end\\PKG-00.pkg',
+ {'BINARY': 1,
+  'DATA': 1,
+  'EXECUTABLE': 1,
+  'EXTENSION': 1,
+  'PYMODULE': 1,
+  'PYSOURCE': 1,
+  'PYZ': 0},
+ [('PYZ-00.pyz',
+   'E:\\Python Work\\BookStore Database Connectivity '
+   'App\\build\\front_end\\PYZ-00.pyz',
+   'PYZ'),
+  ('struct',
+   'E:\\Python Work\\BookStore Database Connectivity '
+   'App\\build\\front_end\\localpycos\\struct.pyo',
+   'PYMODULE'),
+  ('pyimod01_os_path',
+   'E:\\Python Work\\BookStore Database Connectivity '
+   'App\\build\\front_end\\localpycos\\pyimod01_os_path.pyc',
+   'PYMODULE'),
+  ('pyimod02_archive',
+   'E:\\Python Work\\BookStore Database Connectivity '
+   'App\\build\\front_end\\localpycos\\pyimod02_archive.pyc',
+   'PYMODULE'),
+  ('pyimod03_importers',
+   'E:\\Python Work\\BookStore Database Connectivity '
+   'App\\build\\front_end\\localpycos\\pyimod03_importers.pyc',
+   'PYMODULE'),
+  ('pyiboot01_bootstrap',
+   'c:\\program '
+   'files\\python36\\lib\\site-packages\\PyInstaller\\loader\\pyiboot01_bootstrap.py',
+   'PYSOURCE'),
+  ('pyi_rth__tkinter',
+   'c:\\program '
+   'files\\python36\\lib\\site-packages\\PyInstaller\\loader\\rthooks\\pyi_rth__tkinter.py',
+   'PYSOURCE'),
+  ('front_end',
+   'E:\\Python Work\\BookStore Database Connectivity App\\front_end.py',
+   'PYSOURCE'),
+  ('front_end.exe.manifest',
+   'E:\\Python Work\\BookStore Database Connectivity '
+   'App\\build\\front_end\\front_end.exe.manifest',
+   'BINARY')],
+ True,
+ False,
+ False)
